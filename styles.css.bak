@@ -34,7 +34,7 @@ h2 {
 	padding: 70px 0;
 	text-decoration-line: none;
 	text-decoration-style: solid;
-	border-radius: 0px 132px;
+	border-radius: 0px 132px 56px;
 	background-color: black;
 	color: white;
 	
