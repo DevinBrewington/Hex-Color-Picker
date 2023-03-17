@@ -35,7 +35,7 @@ h2 {
 	text-decoration-line: none;
 	text-decoration-style: solid;
 	border-radius: 0px 132px;
-	background-color: black;
+	background-color: #000000;
 	color: white;
 	
 }
@@ -48,6 +48,6 @@ h4 {
 	text-align: center;
 	padding: 10px 16px;
 	border: 3px solid #0000ff;
-	background-color: black;
+	background-color: #000000;
 	border-radius: 92px 16px;
 }
